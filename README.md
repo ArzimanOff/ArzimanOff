@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome👋
+<hr>
+<a href="#">
+  <img src="https://github.com/ArzimanOff/ArzimanOff/assets/104321648/7140fe5d-7a0b-4116-b18a-a8d1a87af138" width="210px">
+</a>
 
-<!--
-**ArzimanOff/ArzimanOff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://t.me/arziman_off">
+  <img src="https://github.com/ArzimanOff/ArzimanOff/assets/104321648/7140fe5d-7a0b-4116-b18a-a8d1a87af138" width="210px">
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://vk.com/arziman_off">
+  <img src="https://github.com/ArzimanOff/ArzimanOff/assets/104321648/7140fe5d-7a0b-4116-b18a-a8d1a87af138" width="210px">
+</a>
