@@ -1,18 +1,6 @@
 ### Welcome👋
-<hr>
 
-<a href="#">
-  <img src="https://github.com/ArzimanOff/ArzimanOff/blob/main/s21_me.svg" width="210px">
-</a>
-<br>
-<br>
-<a href="https://t.me/arziman_off">
-  <img src="https://github.com/ArzimanOff/ArzimanOff/blob/main/tg_me.svg" width="210px">
-</a>
-<br>
-<br>
-<a href="https://vk.com/arziman_off">
-  <img src="https://github.com/ArzimanOff/ArzimanOff/blob/main/vk_me.svg" width="210px">
-</a>
-<br>
-<br>
+
+| [School 21](#) | [Telegram](https://t.me/arziman_off) | [ВКонтакте](https://vk.com/arziman_off) |
+|--------|--------|--------|
+| ![School 21](https://github.com/ArzimanOff/ArzimanOff/blob/main/s21_me.svg) | ![Telegram](https://github.com/ArzimanOff/ArzimanOff/blob/main/tg_me.svg) | ![ВКонтакте](https://github.com/ArzimanOff/ArzimanOff/blob/main/vk_me.svg) |
