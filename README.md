@@ -2,7 +2,7 @@
 
 | | |
 |--------|--------|
-| 👨‍💻 Name | Ahmed |
+| 👨‍💻 I am | Гюльахмед Арзиманов |
 | 📌 Age  | 18 |
 | 📈 Interests | Java, Kotlin, Android-development, Design |
 | 🚀 Goal  | Became Android-developer 📲 |
