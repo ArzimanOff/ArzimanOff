@@ -4,9 +4,9 @@
 |--------|--------|
 | 👨‍💻 I am | Гюльахмед Арзиманов |
 | 📌 Age  | 19 |
-| 📈 Interests | Java, Kotlin, Android-development, Design |
-| 💡 Other skills| SQL, RxJava, Retrofit, Room, MVVM, XML, OOP C, Python, HTML/CSS, Figma |
-| 🚀 Goal  | Became Android-developer 📲 |
+| 📈 Interests | Java, Kotlin, backend-development, Design |
+| 💡 Other skills| SQL, JDBC, Spring, OOP, C, Python, HTML/CSS, Figma |
+| 🚀 Goal  | Became Backend-developer 📲 |
 
 ## ✉️ Contacts:
   
