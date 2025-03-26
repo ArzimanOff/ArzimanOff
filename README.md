@@ -4,9 +4,10 @@
 |--------|--------|
 | 👨‍💻 I am | Гюльахмед Арзиманов |
 | 📌 Age  | 19 |
-| 📈 Interests | Java, Kotlin, backend-development, Design |
-| 💡 Other skills| SQL, JDBC, Spring, OOP, C, Python, HTML/CSS, Figma |
-| 🚀 Goal  | Became Backend-developer 📲 |
+| 🖥️ Role  | Sber Java Deveeloper |
+| 📈 Main skills and Interests | Java, Kotlin, Spring Boot, SQL, backend-development, Design |
+| 💡 Other skills| JDBC, OOP, C, Python, HTML/CSS, Figma |
+| 🚀 Goal  | Grow up as a java backend developer |
 
 ## ✉️ Contacts:
   
