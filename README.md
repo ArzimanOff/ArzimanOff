@@ -3,8 +3,8 @@
 | | |
 |--------|--------|
 | 👨‍💻 I am | Гюльахмед Арзиманов |
-| 📌 Age  | 19 |
-| 🖥️ Role  | Sber Java Developer |
+| 📌 Age  | 20 |
+| 🖥️ Role  | Middle Java Developer at Magnit Tech|
 | 📈 Main skills and Interests | Java, Kotlin, Spring Boot, SQL, backend-development, Design |
 | 💡 Other skills| JDBC, OOP, C, Python, HTML/CSS, Figma |
 | 🚀 Goal  | Grow up as a java backend developer |
